@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\CasinoPoker\bin\Debug\CasinoPoker.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\CasinoPoker\bin\Debug\CasinoPoker.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\CasinoPoker\obj\Debug\CasinoPoker.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\CasinoPoker\obj\Debug\CasinoPoker.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\CasinoPoker\obj\Debug\CasinoPoker.pdb

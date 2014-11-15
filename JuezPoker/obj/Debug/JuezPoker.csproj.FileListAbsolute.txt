@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\JuezPoker.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\JuezPoker.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\CasinoPoker.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\nunit.framework.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\CasinoPoker.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\nunit.framework.xml
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\obj\Debug\JuezPoker.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\obj\Debug\JuezPoker.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CasinoPoker\JuezPoker\obj\Debug\JuezPoker.pdb

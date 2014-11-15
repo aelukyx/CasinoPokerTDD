@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrador\Documents\Visual Studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\JuezPoker.dll" total="21" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-11-06" time="10:52:28">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="SPXTIC3-PC" user="Administrador" user-domain="SPXTIC3-PC" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\Administrador\Documents\Visual Studio 2012\Projects\CasinoPoker\JuezPoker\bin\Debug\JuezPoker.dll" executed="True" result="Success" success="True" time="0.181" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="JuezPoker" executed="True" result="Success" success="True" time="0.168" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="PokerTesting" executed="True" result="Success" success="True" time="0.166" asserts="0">
+            <results>
+              <test-case name="JuezPoker.PokerTesting.TestCartaAlta" executed="True" result="Success" success="True" time="0.132" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestColor" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestColor1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestDosPares" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestDosPares1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscalera" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscalera1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscalera2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscalera3" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscaleraColor" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscaleraColor1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscaleraColor2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestEscaleraReal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestFull" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestFull1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestPoker" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestPoker1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestTrio" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestUnPar" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestUnPar1" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="JuezPoker.PokerTesting.TestUnPar2" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
